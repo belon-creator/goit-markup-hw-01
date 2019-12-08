@@ -10,4 +10,6 @@
 
 На протяжении 10 000 лет кошки ценятся человеком, в том числе за способность охотиться на грызунов и других домашних вредителей[9][10].
 
-[cat]: https://as2.ftcdn.net/jpg/01/17/33/67/500_F_117336759_lgqXZ274BQnvciMFQpBZkdfigPkH7b1i.jpg "cat"
+![cat]: https://as2.ftcdn.net/jpg/01/17/33/67/500_F_117336759_lgqXZ274BQnvciMFQpBZkdfigPkH7b1i.jpg "cat"
+
+![alt text](https://clkde.tradedoubler.com/click?p=264311&a=3045532&g=24328740&epi=search_%D1%81%D0%B8%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%BE%D1%82&url=https://stock.adobe.com/images/photo/126566419?as_channel=affiliate&as_campaign=pexels&as_source=arvato "Logo Title Text 1")
